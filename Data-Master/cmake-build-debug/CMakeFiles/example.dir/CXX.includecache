@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/danie/Desktop/Data-Master/examples/example.cpp
+../include/data.h
+C:/Users/danie/Desktop/Data-Master/include/data.h
+iostream
+-
+
+C:/Users/danie/Desktop/Data-Master/include/BST/BST.h
+stddef.h
+-
+iostream
+-
+BST.i.h
+C:/Users/danie/Desktop/Data-Master/include/BST/BST.i.h
+
+C:/Users/danie/Desktop/Data-Master/include/BST/BST.i.h
+stddef.h
+-
+iostream
+-
+
+C:/Users/danie/Desktop/Data-Master/include/List/List.h
+string
+-
+iostream
+-
+algorithm
+-
+List.i.h
+C:/Users/danie/Desktop/Data-Master/include/List/List.i.h
+
+C:/Users/danie/Desktop/Data-Master/include/List/List.i.h
+
+C:/Users/danie/Desktop/Data-Master/include/data.h
+../include/BST/BST.h
+C:/Users/danie/Desktop/Data-Master/include/BST/BST.h
+../include/List/List.h
+C:/Users/danie/Desktop/Data-Master/include/List/List.h
+

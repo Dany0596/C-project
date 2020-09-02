@@ -1,0 +1,11 @@
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/doc.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/data.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/example.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/danie/Desktop/Data-Master/cmake-build-debug/CMakeFiles/install/strip.dir
